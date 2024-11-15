@@ -72,4 +72,11 @@ h2 {
     align-items: center;
     justify-content: center;
   }
+  .container {
+    width: 700px;
+  }
+
+  .advice-card {
+    width: 420px;
+  }
 }
